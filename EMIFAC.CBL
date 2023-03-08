@@ -27,9 +27,7 @@
        01 LINEA                PIC X(136).                              LG130608
 
        WORKING-STORAGE SECTION.
-       copy "leo.cpy"
-       copy "leo MODIFICADO.cpy"
-
+       copy "el pastero"
        COPY "COLOR.VAR".                                                MD040106
        COPY "FECHA.VAR".
        COPY "PARVENT.VAR".
