@@ -28,6 +28,7 @@
 
        WORKING-STORAGE SECTION.
        copy "leo.cpy"
+       copy "leo MODIFICADO.cpy"
 
        COPY "COLOR.VAR".                                                MD040106
        COPY "FECHA.VAR".
