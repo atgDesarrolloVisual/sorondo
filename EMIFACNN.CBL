@@ -13,7 +13,7 @@
        SPECIAL-NAMES. DECIMAL-POINT IS COMMA.                           
        INPUT-OUTPUT SECTION.                                            
        FILE-CONTROL.                                                    
-       ahora modifico emifacnn
+       
            COPY "ARTICULO.SD".                                          MD291111
            COPY "CODIGOS.SD".                                           
            COPY "IMPREACT.SD".                                          MD200911
@@ -347,7 +347,7 @@
            SET DM-OrientationField      TO TRUE                         MD130711
            SET DM-OrientationIsPortrait TO TRUE                         MD130711
                                                                         MD130711
-      *    Tamaï¿½o del papel                                             MD130711
+      *    Tamaño del papel                                             MD130711
            SET DM-PaperSizeField        TO TRUE                         MD130711
            SET DM-PaperSizeIsA4         TO TRUE                         MD130711
                                                                         MD130711
