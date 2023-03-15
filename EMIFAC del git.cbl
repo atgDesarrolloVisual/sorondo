@@ -29,7 +29,7 @@
        WORKING-STORAGE SECTION.
        copy "leo.cpy"
        copy "leo numero 2.cpy"
-
+ESTAS ES DEL SEGUNDO DIA
        COPY "COLOR.VAR".                                                MD040106
        COPY "FECHA.VAR".
        COPY "PARVENT.VAR".
